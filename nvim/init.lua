@@ -1,3 +1,2 @@
-require("daniel")
--- Path: daniel.lua
-
+require("daniel.core")
+require("daniel.lazy")
