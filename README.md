@@ -1,13 +1,4 @@
-# dotfiles
-
-## Prereqs:
-
-- Neovim
-- Lazygit
-- ZSH + Oh My Zsh
-- Inotifywait (optional for monitor.sh)
-
-## How
+# How
 - brew install neovim
 - sudo apt install zsh
 - install oh my zsh
