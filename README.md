@@ -1,4 +1,5 @@
 # How
+- brew install tmux
 - brew install neovim
 - sudo apt install zsh
 - install oh my zsh
