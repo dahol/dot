@@ -1,4 +1,3 @@
-
 -- minimal_init.lua
 -- Load lazy.nvim
 vim.cmd [[packadd lazy.nvim]]
@@ -41,6 +40,3 @@ require('lazy').setup({
     },
 })
 
-
-require("daniel.core")
-require("daniel.lazy")

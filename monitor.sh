@@ -1,5 +1,4 @@
 #!/bin/bash
-# maybe
 
 # Define paths to monitor
 watch_paths=("./nvim" "./.zshrc")
